@@ -21,6 +21,11 @@ This machine learning project predicts student performance based on study hours.
 The dataset contains:
 - Study Hours
 - Marks
+## project output
+the model predicts the student marks based on student study hours
+
+## sample graph
+![graph](graph.png)
 
 ## How to Run
 
