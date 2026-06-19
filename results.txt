@@ -1,0 +1,6 @@
+study hours=8.0, attendamnce=90.0,  assignment=9, predicted marks=82.09
+study hours=8.0, attendamnce=90.0,  assignment=9, predicted marks=82.09
+study hours=8.0, attendamnce=90.0,  assignment=9, predicted marks=82.09
+study hours=8.0, attendamnce=90.0,  assignment=9, predicted marks=82.09
+study hours=7.0, attendamnce=60.0,  assignment=45, predicted marks=-14.22
+study hours=7.0, attendamnce=85.0,  assignment=8, predicted marks=75.35
