@@ -27,6 +27,9 @@ the model predicts the student marks based on student study hours
 ## sample graph
 ![graph](graph.png)
 
+## WARNING
+ this is made for just practise and this does not contain any commercial or professional use ..
+
 ## How to Run
 
 Install dependencies:
