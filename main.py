@@ -58,3 +58,5 @@ plt.ylabel("marks")
 plt.title("student performance predictor")
 plt.savefig("graph.png")
 print("graph saved as graph.png")
+conclusion="student performance predictors works on th basics of pandas,numpy,matplotlib,scikit-learn,streamlit "
+print(conclusion.upper())  
