@@ -1,4 +1,4 @@
-print("===== STUDENT PERFORMANCE PREDICTOR =====")
+print("      ===== STUDENT PERFORMANCE PREDICTOR =====     ")
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 
 
 
-data =pd.read_csv("student_data.csv")
+data = pd.read_csv("student_data.csv")
 print(data.columns)
 print(data.head())
 
